@@ -1,11 +1,11 @@
 
-# Hi there 👋, I'm [Aapka Naam]
+# Hi there 👋, I'm [M.SAAD]
 
 ### 🚀 About Me
 * 🔭 I’m currently working on exciting development projects.
 * 🌱 I’m currently learning and exploring new technologies.
 * 💬 Ask me about web development, programming, and tech!
-* 📫 How to reach me: [Aapki Email ya LinkedIn link]
+* 📫 How to reach me: [sm9049294@gamil.com]
 
 ---
 
